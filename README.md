@@ -1,6 +1,7 @@
 # Symfony 6 + React 17 boilerplate
 
-To make this run, make sure to do the following :
+To make this run, make sure to add a .env to your project and do the following :
+
 
 `composer install`
 
